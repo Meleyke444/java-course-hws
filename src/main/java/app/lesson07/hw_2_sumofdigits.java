@@ -24,6 +24,8 @@ public class hw_2_sumofdigits {
         }
         return sum;
 
+
+
     }
 
 }
